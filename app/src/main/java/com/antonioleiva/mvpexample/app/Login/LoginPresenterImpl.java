@@ -18,6 +18,8 @@
 
 package com.antonioleiva.mvpexample.app.Login;
 
+import android.util.Log;
+
 public class LoginPresenterImpl implements LoginPresenter, OnLoginFinishedListener {
 
     private LoginView loginView;
@@ -34,6 +36,7 @@ public class LoginPresenterImpl implements LoginPresenter, OnLoginFinishedListen
     }
 
     @Override public void onUsernameError() {
+        Log.e("aa","aaa");
         loginView.setUsernameError();
         loginView.hideProgress();
     }
