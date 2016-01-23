@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01298c1280e97b7367a55252f66a8f19fd494d35">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\MiPush_SDK_Client_2_2_19-025886afbe02a6834d3433661ed536a99830d2c1.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\android-support-v4-b7f8d086ac20adb58775fd218f69caa6faac2d4e.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\baidumapapi_v3_2_0-0a0081a42dc78bf77abed37baafb69960cbf25a0.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\locSDK_3.3-881f168281e139722f36b7ffe461740bad9d5289.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\easemobchat_2.2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77e3648d4d9fac24aa85a8d7f9bd45d05d19ab22">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\easemobchat_2.2.5-b2e3137bd3cec3f6dc0f0a347f88e5872418a242.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\Parse-1.9.4-2f331e812e7a3fe537a72fe8cb2238d89748e3ab.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\bolts-android-1.2.0-262f7bc9257c8f06bfd44b473deb6ce5b6400635.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\picasso-2.4.0-c9f4d34615400663963915c0c910289571b5f11f.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\org.apache.http.legacy-c8ff3ccea92eb52dbcabce4eb9000f97d6533d1c.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\umeng-analytics-v5.2.4-05b01972d99c6f406f6dad60f8753cf6d868d658.jar" />
+    </item>
+    <item
+        jar="H:\studio_stadybase\androidmvp\ChatDemoUI\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="H:\studio_stadybase\androidmvp\ChatDemoUI\build\intermediates\pre-dexed\release\google-play-services-fa96d2e6dbd6587774fa542f78c86e271fb904ec.jar" />
+    </item>
+
+</items>
