@@ -45,6 +45,7 @@ public class AddContactActivity extends BaseActivity{
 //	private ProgressDialog progressDialog;
 
 
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
